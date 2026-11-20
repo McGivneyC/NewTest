@@ -8,7 +8,9 @@
       "package": "DeploymentResultViewer",
       "versionDescription": "",
       "dependencies": [
-        { "package": "Copado@27.0.0-0" }
+        {
+          "package": "Copado@27.0.0-0"
+        }
       ]
     }
   ],
@@ -18,6 +20,7 @@
   "sourceApiVersion": "68.0",
   "packageAliases": {
     "DeploymentResultViewer": "0HoHq000000sXuyKAE",
-    "Copado@27.0.0-0": "04tWU000000T9pV"
+    "Copado@27.0.0-0": "04tWU000000T9pV",
+    "DeploymentResultViewer@0.1.0-1-main": "04tHq000001dAFyIAM"
   }
 }
