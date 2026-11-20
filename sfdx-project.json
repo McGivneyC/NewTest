@@ -6,7 +6,11 @@
       "path": "force-app",
       "default": true,
       "package": "DeploymentResultViewer",
-      "versionDescription": ""
+      "versionDescription": "",
+      "dependencies": [
+        { "package": "Copado", "versionNumber": "27.0.LATEST" }
+      ]
+    }
     }
   ],
   "name": "packaging",
