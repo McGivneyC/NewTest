@@ -8,7 +8,7 @@
       "package": "DeploymentResultViewer",
       "versionDescription": "",
       "dependencies": [
-        { "package": "Copado", "versionNumber": "27.0.LATEST" }
+        { "package": "Copado@27.0.0-0" }
       ]
     }
   ],
@@ -17,6 +17,7 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "68.0",
   "packageAliases": {
-    "DeploymentResultViewer": "0HoHq000000sXuyKAE"
+    "DeploymentResultViewer": "0HoHq000000sXuyKAE",
+    "Copado@27.0.0-0": "04tWU000000T9pV"
   }
 }
