@@ -21,6 +21,7 @@
   "packageAliases": {
     "DeploymentResultViewer": "0HoHq000000sXuyKAE",
     "Copado@24.0.0-0": "04tKA000000Tn5i",
-    "DeploymentResultViewer@0.1.0-1-main": "04tHq000001dAFyIAM"
+    "DeploymentResultViewer@0.1.0-1-main": "04tHq000001dAFyIAM",
+    "DeploymentResultViewer@1.0.0-1-main": "04tHq000001dAG3IAM"
   }
 }
